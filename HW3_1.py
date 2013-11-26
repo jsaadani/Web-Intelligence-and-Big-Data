@@ -40,5 +40,5 @@ s.datasource = datasource
 s.mapfn = mapfn
 s.reducefn = reducefn
 
-results = s.run_server(password="Audencia10")
+results = s.run_server(password="password10")
 print results
